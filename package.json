@@ -1,0 +1,25 @@
+{
+  "name": "server_thunder",
+  "version": "1.0.0",
+  "description": "first thunder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "runThis": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenilakbari54/server_thunder_ak.git"
+  },
+  "author": "kenil akbari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenilakbari54/server_thunder_ak/issues"
+  },
+  "homepage": "https://github.com/kenilakbari54/server_thunder_ak#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
